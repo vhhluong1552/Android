@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Amazing Race</string>
+
+    <string name="Logo">Logo</string>
+    <string name="score">100</string>
+    <string name="play_game">Play</string>
+</resources>
